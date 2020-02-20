@@ -28,6 +28,7 @@ void buildlist(node*&head)
 	{
 		insertathead(head,data);
 		cin>>data;
+		
 	}
 }
 void print(node*head)
